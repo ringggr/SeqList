@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "quest9(SeqList&amp;, int):basicFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "L.data[low]">
+            </PersistentString>
+            <PersistentString
+               value = "L.data[i + 1]">
+            </PersistentString>
+            <PersistentString
+               value = "L.data[mid]">
+            </PersistentString>
+            <PersistentString
+               value = "L.data[high]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "L.data[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "quest11_2(int*, int*, int):basicFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "a[m1]">
+            </PersistentString>
+            <PersistentString
+               value = "b[m2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
